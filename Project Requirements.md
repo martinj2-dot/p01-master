@@ -1,12 +1,14 @@
 # Project Requirements
-**_Do not modify this file. It is for your reference only!_**
+**_Do not modify this file. It is for your reference only!_** You should make your edits to README.md while working on your project. 
+
+❗️indicate action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
 
 ---
 
 ## Project Overview
 
 For your final project, you will be revisiting an earlier piece of code and refactoring it. (In other words, rewriting it to make it better.) In doing so, you must:
-1. Implement at least one class which is appropriate to the context
+1. Implement at least one class which is appropriate to the context.
 2. Add event handling (mouse or keyboard interaction). Note that it is enough to use event handlers, as outlined in the textbook; you do **not** need to use Tkinter.
 3. You do **not** need to include a test suite.
 
@@ -17,7 +19,7 @@ You have two options as to which body of code you revisit, with slightly differe
     - Note: Your labyrinth should contain only "rooms" that you have created (i.e. not your classmates') and at least 5 of them.
 2. T10: Oh, The Places You'll Go!
     - Implement a class representing place(s) on the map. 
-    - Add mouse interaction that allows the user to click to add a new place by responding to console prompts.
+    - Add mouse interaction that allows the user to click to add a new place, using the console to provide additional necessary information.
     - Note: Your map should begin by loading 5 places of personal significance to you (from a specified text file).
 
 ---
@@ -27,7 +29,7 @@ You have two options as to which body of code you revisit, with slightly differe
 
 - Create your project repository (this one!) 
 - Update the README header with your information (name, etc.)
-- Indicate which teamwork you plan to use for your project: either (1) Choose Your Own Adventure or (2) Oh, The Places You'll Go!
+- Indicate which teamwork you plan to use for your project: either *Choose Your Own Adventure* or *Oh, The Places You'll Go!*
 - Copy files from your original T01/T04/T10 teamwork repository into this repository
     - Make sure that git is tracking these files (in PyCharm, the filenames should *not* be red; you should also see them on GitHub after pushing)
     - **Do not modify these files! They are for reference only!**
@@ -52,9 +54,10 @@ You have two options as to which body of code you revisit, with slightly differe
 
 - Final version of your code, cleaned up and commented
 - Final, fully completed version of your README (nicely formatted and proofread)
+    - Note: your README will be graded as it appears on GitHub, so make sure to double check how your formatting looks in a browser!
 - In-class lightning presentation (5 minutes, 3 slides)
     - Your slides must be uploaded to your repository as images or a PDF file (not PowerPoint!)
-    - You should briefly summarize your response to all of the Milestone 3 questions from your README
-    - You should not have any slides that consist entirely of code, nor should you focus on talking about your code
+    - You should briefly summarize your response to all of the Milestone 3 README prompts/subheadings
+    - You should not have any slides that consist entirely of code, nor should you focus on talking about the details of your code
 - In-class live demo to your classmates
 - **Commit and push** your work!
