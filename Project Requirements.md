@@ -53,8 +53,9 @@ You have two options as to which body of code you revisit, with slightly differe
 *Due at the start of your section's Final Exam period.*
 
 - Final version of your code, cleaned up and commented
-- Final, fully completed version of your README (nicely formatted and proofread)
-    - Note: your README will be graded as it appears on GitHub, so make sure to double check how your formatting looks in a browser!
+- Final, fully completed version of your README 
+    - Your README should be proofread, nicely formatted, and cleaned up (all sample text/instructions below headings replaced with your own writing)
+    - Your README will be graded as it appears on GitHub, so make sure to double check how your formatting looks in a browser!
 - In-class lightning presentation (5 minutes, 3 slides)
     - Your slides must be uploaded to your repository as images or a PDF file (not PowerPoint!)
     - You should briefly summarize your response to all of the Milestone 3 README prompts/subheadings
