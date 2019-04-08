@@ -2,7 +2,9 @@
 Give your project a name and replace the above text with that name.
 
 **Author**: your name here
+
 **Section**: A, B, or C
+
 **Semester**: Spring 2019
 
 ---
@@ -11,13 +13,14 @@ Give your project a name and replace the above text with that name.
 *Due Wednesday, 4/17, by the start of class.*
 
 **Project selection**: Choose Your Own Adventure or Oh, The Places You'll Go!
+
 **Completed CRC card for the class you will implement**:
-![alt text](image/crc.png "Image of CRC card as an example.")
   - See this link for a sample CRC card and a template to
   use for your own cards: https://docs.google.com/document/d/1JE_3Qmytk_JGztRqkPXWACJwciPH61VCx3idIlBCVFY/edit?usp=sharing
   - Tables in markdown are not easy, so we suggest saving your CRC card
   as an image and including the image(s) in the README. You can do this
   by saving an image in the repository and linking to it. See the sample above.
+![alt text](image/crc.png "Image of CRC card as an example.")
 
 
 ## Milestone 2: Code
