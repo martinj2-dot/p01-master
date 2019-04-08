@@ -32,7 +32,7 @@ You have two options as to which body of code you revisit, with slightly differe
 - Indicate which teamwork you plan to use for your project: either *Choose Your Own Adventure* or *Oh, The Places You'll Go!*
 - Copy files from your original T01/T04/T10 teamwork repository into this repository
     - Make sure that git is tracking these files (in PyCharm, the filenames should *not* be red; you should also see them on GitHub after pushing)
-    - **Do not modify these files! They are for reference only!**
+    - _**Do not modify these files! They are for reference only!**_
 - Create a CRC card for the class you will be implementing
     - You must include an image of this CRC card in your README file
     - See my example for how to do this
