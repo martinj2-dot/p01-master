@@ -1,5 +1,5 @@
 # Project Requirements
-**_Do not modify this file. It is for your reference only!_** You should make your edits to README.md while working on your project. 
+**_Do not modify this file; it is for your reference only._** You should make your edits to README.md while working on your project. 
 
 ❗️indicate action items; you should remove these emoji as you complete/update the items which they accompany. (This means that your final README should have no ❗️in it!)
 
