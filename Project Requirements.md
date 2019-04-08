@@ -5,7 +5,7 @@
 
 ---
 
-## Project Overview
+## ⚡️Project Overview
 
 For your final project, you will be revisiting an earlier piece of code and refactoring it. (In other words, rewriting it to make it better.) In doing so, you must:
 1. Implement at least one class which is appropriate to the context.
@@ -24,7 +24,7 @@ You have two options as to which body of code you revisit, with slightly differe
 
 ---
 
-## Milestone 1: Setup, Planning, Design
+## 📌Milestone 1: Setup, Planning, Design
 *Due Wednesday, 4/17, by the start of class.*
 
 - Create your project repository (this one!) 
@@ -39,7 +39,7 @@ You have two options as to which body of code you revisit, with slightly differe
     - Verify via GitHub that your README is formatted appropriately to show your image
 - **Commit and push** your work!
 
-## Milestone 2: Code
+## 📌Milestone 2: Code
 *Due Wednesday, 4/24, by the start of class.*
 
 - Add new file(s) to your repository for your final project code
@@ -49,7 +49,7 @@ You have two options as to which body of code you revisit, with slightly differe
     - *Then*, after that code is fully functional, add event handling
 - **Commit and push** your work!
 
-## Milestone 3: Final Code, Presentation, Demo
+## 📌Milestone 3: Final Code, Presentation, Demo
 *Due at the start of your section's Final Exam period.*
 
 - Final version of your code, cleaned up and commented
