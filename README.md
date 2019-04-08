@@ -29,21 +29,21 @@ No README action items. Focus on your code!
 ## Milestone 3: Final Code, Presentation, Demo
 *Due at the start of your section's Final Exam period.*
 
-#### User Instructions
+### User Instructions
 In a paragraph, explain how to use your program.
 
-#### Errors
+### Errors
 Every program has bugs. Use this section to create a bullet list of
 all known errors and deficiencies that remain in your code.
 
-#### Reflection
+### Reflection
 In 3 - 4 paragraphs, address the following:
 - Why did you select the project that you did?
 - What was the hardest part of your final project?
 - What did you learn from your final project?
 - What would you do differently next time, knowing what you know now?
 
-#### References
+### References
 Throughout this project, you've likely used outside resources.
 Reference all ideas which are not your own, and describe and
 how you integrated the ideas or code into your program. This includes
