@@ -4,7 +4,7 @@
 
 ❗️**Section**: A, B, or C
 
-**Semester**: Spring 2019
+**Term**: Spring 2019
 
 ---
 
