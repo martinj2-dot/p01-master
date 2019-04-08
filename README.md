@@ -25,7 +25,7 @@
 ## Milestone 2: Code
 *Due Wednesday, 4/24, by the start of class.*
 
-No README action items. Focus on your code!
+No README action items. Focus on your code! 🙃
 
 
 ## Milestone 3: Final Code, Presentation, Demo
