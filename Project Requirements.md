@@ -27,6 +27,7 @@ You have two options as to which body of code you revisit, with slightly differe
     - Your implementation must also:
         1. Include a `__str__()` method in your class, that returns a nicely formatted version of a class instance. Your program must also *use* this method to print an instance of your class to the console.
         2. Quit when the letter "q" is pressed on the keyboard.
+        3. Include a creative twist of your own! This could mean: overhauling the appearance (fonts, colors, etc. although it is recommended to stick with the provided map), enabling additional ways for the user to interact, hiding an "easter egg" somewhere on the map, or something else of your choosing. If you're unsure of whether your idea satisfies this requirement, ask Emily!
     - Note: Your map should begin by loading 5 places of personal significance to you (from a specified text file).
 
 ---
