@@ -16,7 +16,7 @@ You have two options as to which body of code you revisit, with slightly differe
 1. T01/T04: Choose Your Own Adventure
     - ~~Implement a class representing the player who moves throughout the labyrinth. The state of the player should be somehow affected by events in the labyrinth (and these effects should be apparent to the user).~~
     - ~~Add keyboard interaction which allows the user to navigate using arrow keys. You will probably have to edit your story/"rooms" to accommodate this.~~
-    - If you plan to pursue this project path, you need to run your implementation plan by Emily first! (You need to incorproate at least one appropriate class as well as event handling, but exactly how is up to you.)
+    - If you plan to pursue this project path, you need to run your implementation plan by Emily first! (You need to incorporate at least one appropriate class as well as event handling, but exactly how is up to you.)
     - Your implementation must also:
         1. Include a __str__() method in your class, that returns a nicely formatted version of a class instance. Your program must also *use* this method to print an instance of your class to the console.
         2. Quit (or at least close the window) when the letter "q" is pressed on the keyboard.
