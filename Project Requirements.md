@@ -65,7 +65,11 @@ assignments together to create something new and interesting!
 ## 📌Milestone 4: Final Code, Presentation, Demo
 *Due at the start of your section's Final Exam period.*
 
-1. Final version of your code, cleaned up and commented
+1. Final version of your code:
+    - Clean up code. Make sure it follows our coding standards.
+    - Remove unworking code
+    - Comment out (don't delete!) any print statements or other debugging code.
+    - Clean up docstrings and comments.  
 2. Final, fully completed version of your README.md 
     - Your README should be proofread, nicely formatted, and cleaned up (all sample text/instructions below headings replaced with your own writing)
     - Your README will be graded as it appears on GitHub, so make sure to double check how your formatting looks in a browser (not PyCharm's unformatted version)!
@@ -75,3 +79,14 @@ assignments together to create something new and interesting!
     - You should not have any slides that consist entirely of code, nor should you focus on talking about the details of your code
 4. In-class live demo to your classmates
 5. **Commit and push** your work before your section's exam period!
+
+---
+## Grading
+- Milestone 1: 15 points
+- Milestone 2: 10 points
+- Milestone 3: 5 points
+- Milestone 4:
+  - Code: 30 points
+  - README: 25 points
+  - Lightning Presentation: 10 points
+  - Live Demo: 5 points 
