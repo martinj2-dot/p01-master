@@ -2,9 +2,9 @@
 
 **Term**: Fall 2019
 
-❗️**Author(s)**: Joey Martin
+❗️**Author(s)**: Name Here
 
-❗️**Section**: A
+❗️**Section**: A or B
 
 ❗**References**: 
 Throughout this project, you've likely used outside resources.
